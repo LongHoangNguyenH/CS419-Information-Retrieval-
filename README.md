@@ -4,7 +4,7 @@
 |:--:|:--:|:--:|
 | [Dang Thi Tuong Vy](https://github.com/TuongVy20522176) |20522176| Leader |
 | [Nguyen Hoang Long](https://github.com/LongHoangNguyenH) |20521568| Member |
-| [Tran Phuong Thao] |20521938| Member |
+| Tran Phuong Thao |20521938| Member |
 
 ## Table of contents
 1. [Introduction](#1-Introduction)
@@ -31,16 +31,20 @@ Clone this repos on your Laptop or PC then extract it.
 Find Text_Retrieve.ipynb then run all cells.
 This project just built a simple search system, and we have deployed this system into any product, so you can refer to this engine and build your own application.
 This is some example:
-
+![A box appears, and we type the word that we want to query (everything existed in Cranfield Data).)](./images/Result_0.png "Search Box")
+![Not Found](./images/Result_1.png "Case 1")
+![Found](./images/Result_2.png "Case 2")
 ### 4.Evaluate
 + Vector Space Model
-+ 
+![VSM Evaluation](./images/VSM.png "VSM")
 + Language Model
+![Language Model Evaluation](./images/Bigram_Unigram.png "Langguage model")
 + In general
+![In General](./images/.png "general")
 ### 5.References
-https://www.ccs.neu.edu/home/jaa/CSG339.06F/Lectures/language.pdf
-![image](https://github.com/LongHoangNguyenH/CS419-Information-Retrieval-/assets/79389744/d6f2ace5-5589-4177-b080-5b4ec895b5f3)
+Finally, this is some references and motivation
++ [https://www.ccs.neu.edu/home/jaa/CSG339.06F/Lectures/language.pdf](https://www.ccs.neu.edu/home/jaa/CSG339.06F/Lectures/language.pdf)
++ [https://github.com/whoosh-community/whoosh](https://github.com/whoosh-community/whoosh)
 
-https://github.com/whoosh-community/whoosh
-![image](https://github.com/LongHoangNguyenH/CS419-Information-Retrieval-/assets/79389744/fd536c70-30ae-4717-bc13-05dd10056c24)
+
 

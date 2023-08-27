@@ -27,7 +27,7 @@ Data is used in this repos is Cranfield data - It locate in Data folder.
 + remove stopwords
 + steamming
 ### 3. Run
-Clone this repos on your Laptop or PC then extract it.
+Clone this repos on your Laptop or PC then extract it.\n
 Find Text_Retrieve.ipynb then run all cells.
 This project just built a simple search system, and we have deployed this system into any product, so you can refer to this engine and build your own application.
 This is some example:

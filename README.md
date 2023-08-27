@@ -44,12 +44,15 @@ A box appears, and we type the word that we want to query (everything existed in
 
 ## 4.Evaluate
 + Vector Space Model
+  
 ![VSM Evaluation](./images/VSM.png "VSM")
 
 + Language Model
+  
 ![Language Model Evaluation](./images/Bigram_Unigram.png "Langguage model")
 
 + In general
+  
 ![In General](./images/.png "general")
 ## 5.References
 Finally, this is some references and motivation

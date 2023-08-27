@@ -33,7 +33,9 @@ Clone this repos on your Laptop or PC then extract it.
 Find Text_Retrieve.ipynb then run all cells.
 
 This project just built a simple search system, and we have deployed this system into any product, so you can refer to this engine and build your own application.
+
 This is some example:
+
 A box appears, and we type the word that we want to query (everything existed in Cranfield Data)
 
 ![A box appears)](./images/Result_0.png "Search Box")

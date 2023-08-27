@@ -15,6 +15,7 @@
 ---
 ### 1. Introduction
 Information retrieval is a field need to optimize 
+
 We choose two approach in this repos as Vector Space Model and Language Model
 With two model above we compare and using NLP (Natural Language Processing) knowledge, Because we did this repos with English 
 and every language has own procedure. It need to be process and using processed data to build Machine Learning model.
@@ -27,12 +28,17 @@ Data is used in this repos is Cranfield data - It locate in Data folder.
 + remove stopwords
 + steamming
 ### 3. Run
-Clone this repos on your Laptop or PC then extract it.\n
+Clone this repos on your Laptop or PC then extract it.
+
 Find Text_Retrieve.ipynb then run all cells.
+
 This project just built a simple search system, and we have deployed this system into any product, so you can refer to this engine and build your own application.
 This is some example:
-![A box appears, and we type the word that we want to query (everything existed in Cranfield Data).)](./images/Result_0.png "Search Box")
+A box appears, and we type the word that we want to query (everything existed in Cranfield Data)\n
+![A box appears)](./images/Result_0.png "Search Box")
+
 ![Not Found](./images/Result_1.png "Case 1")
+
 ![Found](./images/Result_2.png "Case 2")
 ### 4.Evaluate
 + Vector Space Model

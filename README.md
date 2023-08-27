@@ -16,7 +16,7 @@
 ## 1. Introduction
 Information retrieval is a field need to optimize 
 
-We choose two approach in this repos as Vector Space Model and Language Model
+We choose two approaches in this repos as Vector Space Model and Language Model
 With two model above we compare and using NLP (Natural Language Processing) knowledge, Because we did this repos with English 
 and every language has own procedure. It need to be process and using processed data to build Machine Learning model.
 Data is used in this repos is Cranfield data - It locate in Data folder.
@@ -40,7 +40,11 @@ A box appears, and we type the word that we want to query (everything existed in
 
 ![A box appears)](./images/Result_0.png "Search Box"){width=800px}
 
+Result: Not Found
+
 ![Not Found](./images/Result_1.png "Case 1"){width=800px}
+
+Result: Ranked resultset
 
 ![Found](./images/Result_2.png "Case 2"){width=800px}
 
@@ -51,15 +55,15 @@ A box appears, and we type the word that we want to query (everything existed in
 
 + Language Model
   
-![Language Model Evaluation](./images/Bigram_Unigram.png "Langguage model"){width=500px}
-
+![Language Model Evaluation](./images/Bigram_Unigram.png "Langguage model"){width="500"}
 + In general
   
-![In General](./images/.png "general"){width=800px}
+![In General](./images/InGeneral.png "general"){width=800px}
 ## 5.References
 Finally, this is some references and motivation
 
 + [https://www.ccs.neu.edu/home/jaa/CSG339.06F/Lectures/language.pdf](https://www.ccs.neu.edu/home/jaa/CSG339.06F/Lectures/language.pdf)
+  
 + [https://github.com/whoosh-community/whoosh](https://github.com/whoosh-community/whoosh)
 
 

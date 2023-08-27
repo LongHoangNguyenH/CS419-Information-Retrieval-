@@ -38,24 +38,24 @@ This is some example:
 
 A box appears, and we type the word that we want to query (everything existed in Cranfield Data)
 
-![A box appears)](./images/Result_0.png "Search Box")
+![A box appears)](./images/Result_0.png "Search Box"){width=800px}
 
-![Not Found](./images/Result_1.png "Case 1")
+![Not Found](./images/Result_1.png "Case 1"){width=800px}
 
-![Found](./images/Result_2.png "Case 2")
+![Found](./images/Result_2.png "Case 2"){width=800px}
 
 ## 4.Evaluate
 + Vector Space Model
   
-![VSM Evaluation](./images/VSM.png "VSM")
+![VSM Evaluation](./images/VSM.png "VSM"){width=800px}
 
 + Language Model
   
-![Language Model Evaluation](./images/Bigram_Unigram.png "Langguage model")
+![Language Model Evaluation](./images/Bigram_Unigram.png "Langguage model"){width=500px}
 
 + In general
   
-![In General](./images/.png "general")
+![In General](./images/.png "general"){width=800px}
 ## 5.References
 Finally, this is some references and motivation
 
